@@ -2,11 +2,11 @@ package edu;
 
 import org.junit.jupiter.api.*;
 
-public class Test1 {
+public class TestCisnienie {
 
     @BeforeAll
     static void init() {
-        System.out.println("Witamy w testach");
+        System.out.println("Witamy w testach Ciśnienia");
     }
 
     @BeforeEach
@@ -25,5 +25,19 @@ public class Test1 {
     @DisplayName("Test mmHg to hPa")
     void mmHgTOhPa() {
         Assertions.assertEquals(1.3332238741499935, CisnienieJednostki.mmHgTOhPa(1));
+    }
+
+
+
+    @Test
+    @DisplayName("Test ujemne hPa")
+    void ujemnehPa() {
+        Assertions.assertThrows(IllegalArgumentException.class, ()-> CisnienieJednostki.hPaTOmmHg(-9.8));
+    }
+
+    @Test
+    @DisplayName("Test ujemne mmHg")
+    void ujemnemmHg() {
+        Assertions.assertThrows(IllegalArgumentException.class, ()-> CisnienieJednostki.mmHgTOhPa(-20.3));
     }
 }

@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52042241-7582-4021-bf6b-1e35918af787" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/testy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/edu/TestCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/edu/TestCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/edu/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/edu/TestCisnienie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/edu/TestLodowka.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/edu/TestLodowka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lista5/edu/CisnienieJednostki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lista5/edu/CisnienieJednostki.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lista5/edu/Lodowka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lista5/edu/Lodowka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/lista5/edu/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/lista5/edu/TestCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/lista5/edu/TestCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/lista5/edu/TestLodowka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/lista5/edu/TestLodowka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/CisnienieJednostki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/CisnienieJednostki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/Lodowka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/Lodowka.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,32 +25,34 @@
     <session id="1351341690">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="12" />
+          <entry key="java" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="927" />
+          <entry key="java" value="1875" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="927" />
+          <entry key="JAVA" value="1875" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -57,32 +67,16 @@
         <entry file="file://$PROJECT_DIR$/src/edu/CisnienieJednostki.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <element signature="e#95#96#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-              </folding>
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tests/edu/Test1.java">
+        <entry file="file://$PROJECT_DIR$/Tests/edu/TestCisnienie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-              <folding>
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="364">
+              <caret line="34" column="105" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="105" />
             </state>
           </provider>
         </entry>
@@ -90,32 +84,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/Lodowka.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="357">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tests/edu/TestLodowka.java">
+        <entry file="file://$PROJECT_DIR$/src/edu/testy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="136">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/edu/TestCalc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tests/edu/TestCalc.java">
+        <entry file="file://$PROJECT_DIR$/Tests/edu/TestLodowka.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="338">
-              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+              <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -135,14 +136,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/edu/CisnienieJednostki.java" />
         <option value="$PROJECT_DIR$/Tests/Test.java" />
         <option value="$PROJECT_DIR$/Tests/edu/Test.java" />
         <option value="$PROJECT_DIR$/src/edu/SimpleCalc.java" />
+        <option value="$PROJECT_DIR$/Tests/edu/TestCalc.java" />
         <option value="$PROJECT_DIR$/Tests/edu/Test1.java" />
+        <option value="$PROJECT_DIR$/Tests/edu/TestCisnienie.java" />
+        <option value="$PROJECT_DIR$/src/edu/CisnienieJednostki.java" />
+        <option value="$PROJECT_DIR$/src/edu/testy.java" />
         <option value="$PROJECT_DIR$/src/edu/Lodowka.java" />
         <option value="$PROJECT_DIR$/Tests/edu/TestLodowka.java" />
-        <option value="$PROJECT_DIR$/Tests/edu/TestCalc.java" />
       </list>
     </option>
   </component>
@@ -152,7 +155,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -165,6 +168,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,7 +206,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,7 +214,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541609135905" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541710878490" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -231,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestLodowka">
+  <component name="RunManager" selected="JUnit.TestLodowka">
     <configuration name="TestLodowka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.TestLodowka" />
       <module name="lista5" />
@@ -245,7 +248,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="testy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.testy" />
       <module name="lista5" />
       <extension name="coverage">
         <pattern>
@@ -253,13 +257,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu" />
-      <option name="MAIN_CLASS_NAME" value="edu.Test1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCalc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCisnienie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lista5" />
       <extension name="coverage">
         <pattern>
@@ -268,21 +270,55 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="edu" />
-      <option name="MAIN_CLASS_NAME" value="edu.TestCalc" />
+      <option name="MAIN_CLASS_NAME" value="edu.TestCisnienie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLodowka" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lista5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu" />
+      <option name="MAIN_CLASS_NAME" value="edu.TestLodowka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLodowka.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lista5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu" />
+      <option name="MAIN_CLASS_NAME" value="edu.TestLodowka" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestCalc" />
-      <item itemvalue="JUnit.Test1" />
       <item itemvalue="Application.TestLodowka" />
+      <item itemvalue="JUnit.TestCisnienie" />
+      <item itemvalue="Application.testy" />
+      <item itemvalue="JUnit.TestLodowka" />
+      <item itemvalue="JUnit.TestLodowka.add" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestLodowka" />
+        <item itemvalue="Application.testy" />
+        <item itemvalue="JUnit.TestLodowka.add" />
+        <item itemvalue="JUnit.TestCisnienie" />
         <item itemvalue="Application.TestLodowka" />
-        <item itemvalue="JUnit.Test1" />
-        <item itemvalue="JUnit.TestCalc" />
       </list>
     </recent_temporary>
   </component>
@@ -297,64 +333,69 @@
       <option name="presentableId" value="Default" />
       <updated>1540899527360</updated>
       <workItem from="1540899533985" duration="892000" />
-      <workItem from="1541601910714" duration="5897000" />
+      <workItem from="1541601910714" duration="6893000" />
+      <workItem from="1541698012866" duration="7215000" />
+      <workItem from="1541710123934" duration="711000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCalc - 2018.11.07 at 16h 56m 58s.xml">
-      <configuration name="TestCalc" configurationId="JUnit" />
+    <history-entry file="TestCisnienie - 2018.11.08 at 19h 38m 39s.xml">
+      <configuration name="TestCisnienie" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalc - 2018.11.07 at 16h 57m 50s.xml">
-      <configuration name="TestCalc" configurationId="JUnit" />
+    <history-entry file="TestCisnienie - 2018.11.08 at 19h 38m 50s.xml">
+      <configuration name="TestCisnienie" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalc - 2018.11.07 at 16h 58m 00s.xml">
-      <configuration name="TestCalc" configurationId="JUnit" />
+    <history-entry file="TestCisnienie - 2018.11.08 at 19h 39m 25s.xml">
+      <configuration name="TestCisnienie" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalc - 2018.11.07 at 16h 58m 54s.xml">
-      <configuration name="TestCalc" configurationId="JUnit" />
+    <history-entry file="TestCisnienie - 2018.11.08 at 19h 40m 02s.xml">
+      <configuration name="TestCisnienie" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalc - 2018.11.07 at 17h 04m 15s.xml">
-      <configuration name="TestCalc" configurationId="JUnit" />
+    <history-entry file="TestCisnienie - 2018.11.08 at 19h 40m 31s.xml">
+      <configuration name="TestCisnienie" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test1 - 2018.11.07 at 17h 06m 02s.xml">
-      <configuration name="Test1" configurationId="JUnit" />
+    <history-entry file="TestCisnienie - 2018.11.08 at 19h 41m 04s.xml">
+      <configuration name="TestCisnienie" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test1 - 2018.11.07 at 17h 06m 39s.xml">
-      <configuration name="Test1" configurationId="JUnit" />
+    <history-entry file="TestCisnienie - 2018.11.08 at 19h 41m 12s.xml">
+      <configuration name="TestCisnienie" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test1 - 2018.11.07 at 17h 08m 29s.xml">
-      <configuration name="Test1" configurationId="JUnit" />
+    <history-entry file="TestLodowka - 2018.11.08 at 19h 48m 26s.xml">
+      <configuration name="TestLodowka" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test1 - 2018.11.07 at 17h 25m 27s.xml">
-      <configuration name="Test1" configurationId="JUnit" />
+    <history-entry file="TestLodowka_add - 2018.11.08 at 19h 55m 32s.xml">
+      <configuration name="TestLodowka.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLodowka - 2018.11.08 at 20h 09m 34s.xml">
+      <configuration name="TestLodowka" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6789000" />
+    <option name="totallyTimeSpent" value="15711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3276923" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3276923" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32923076" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -374,74 +415,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tests/Test.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/edu/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Test.java" />
+    <entry file="file://$PROJECT_DIR$/Tests/edu/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/edu/SimpleCalc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/Lodowka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/edu/TestLodowka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/CisnienieJednostki.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/edu/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -452,10 +431,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/CisnienieJednostki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/testy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/Lodowka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/edu/TestCisnienie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="34" column="105" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/edu/TestCalc.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/edu/TestLodowka.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
-          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
         </state>
       </provider>
     </entry>
